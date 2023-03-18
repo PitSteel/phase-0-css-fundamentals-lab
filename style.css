@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+div {
+  float: left;
+}
+div {
+  width: 25%;
+}
+div {
+  background-color: red;
+}
+pfeatured-property {
+  width: 800px;
+}
+figure {
+  font-size: smaller;
+}
+a {
+  background-color: blue;
+}
